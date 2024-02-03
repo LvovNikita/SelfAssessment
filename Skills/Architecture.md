@@ -1,22 +1,22 @@
 ## Architecture
 
 - Application structure
-  - Modularity h
-  - Components h
+  - Modularity: 👂 heard
+  - Components: 👂 heard
   - Directories
   - GRASP
   - SOLID
-  - GoF patterns h
-  - CQS h
+  - GoF patterns: 👂 heard
+  - CQS: 👂 heard
   - Leaking abstractions
   - Multiparadigm code
-  - Contract programming h
-  - Platform-agnostic h
-  - Transport-agnostic h
-  - Framework-agnostic h
+  - Contract programming: 👂 heard
+  - Platform-agnostic: 👂 heard
+  - Transport-agnostic: 👂 heard
+  - Framework-agnostic: 👂 heard
   - Code coverage
-  - Cohesion k
-  - Coupling k
+  - Cohesion: 🎓 known
+  - Coupling: 🎓 known
   - Cyclomatic complexity
   - Reliability
   - Quality
@@ -24,26 +24,26 @@
   - Flexibility
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer h
+  - Isolation between layer: 👂 heard
   - Domain-specific language (DSL)
   - System vs applied code
-  - Multilayer approach h
+  - Multilayer approach: 👂 heard
   - Hexagonal architecture
   - Separation of concerns (SoC)
   - Metaprogramming
-  - Inversion of control (IoC) h
-  - Dependency injection (DI) h
+  - Inversion of control (IoC): 👂 heard
+  - Dependency injection (DI): 👂 heard
   - Clean architecture
   - Domain-driven design (DDD)
-  - Pub/sub k
-  - Message brocker u
+  - Pub/sub: 🎓 known
+  - Message brocker: 🖐️ used
   - Agent
-  - Service locator k
-  - Message Queue (MQ) k
-  - CQRS h
+  - Service locator: 🎓 known
+  - Message Queue (MQ): 🎓 known
+  - CQRS: 👂 heard
   - Event sourcing
-  - E-R data modeling h
-  - Entity-relationship diagram k
+  - E-R data modeling: 👂 heard
+  - Entity-relationship diagram: 🎓 known
   - IDEF1X
   - UML
   - Work breakdown structure
@@ -66,14 +66,14 @@
   - Solution capabilities
   - System design
   - Process modelling
-  - Data modelling h
+  - Data modelling: 👂 heard
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds h
+  - Clouds: 👂 heard
   - BPMN
-  - Low-code h
-  - No-code h
+  - Low-code: 👂 heard
+  - No-code: 👂 heard
   - Metric
   - Metric abuse
   - ACID
@@ -88,7 +88,7 @@
   - Project scope
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices u
+  - Microservices: 🖐️ used
   - Process choreography
   - Service orchestration
   - Data warehouse

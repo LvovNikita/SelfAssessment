@@ -1,50 +1,50 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming k
-  - Imperative programming k
+  - Procedural programming: 🎓 known
+  - Imperative programming: 🎓 known
   - Structured programming
   - Non-structured programming
-  - Functional programming k
-  - Prototype-based programming k
-  - Object-oriented programming u
+  - Functional programming: 🎓 known
+  - Prototype-based programming: 🎓 known
+  - Object-oriented programming: 🖐️ used
   - Object-based programming
-  - Generic programming u
+  - Generic programming: 🖐️ used
   - Concurrent computing
-  - Asyncronous programming u
+  - Asyncronous programming: 🖐️ used
   - Parallel programming
-  - Reactive programming h
+  - Reactive programming: 👂 heard
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming k
-  - Metaprogramming h
+  - Multi-paradigm programming: 🎓 known
+  - Metaprogramming: 👂 heard
   - Actor model
   - Lambda calculus
   - Black box
   - Information hiding
   - Aspect-oriented programming
   - Anemic domain model
-  - Class composition h
+  - Class composition: 👂 heard
 - OOP basics
-  - Constructor u
-  - Operator `new` u
-  - Static method u
-  - Method u
-  - Async method u
-  - Getters, Setters k
-  - Public fields u
-  - Private fields u
+  - Constructor: 🖐️ used
+  - Operator `new`: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
+  - Async method: 🖐️ used
+  - Getters, Setters: 🎓 known
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
   - Field declarations
-  - Inheritance u
-  - Parent class u
-  - Polymorphism k
-  - Abstract class k
-  - Interface u
-  - Encapsulation k
+  - Inheritance: 🖐️ used
+  - Parent class: 🖐️ used
+  - Polymorphism: 🎓 known
+  - Abstract class: 🎓 known
+  - Interface: 🖐️ used
+  - Encapsulation: 🎓 known
   - Hidden class
   - Object form
-  - Instance u
+  - Instance: 🖐️ used
   - Introspection
   - Reflection
   - The diamond problem
@@ -53,8 +53,8 @@
   - Creator
   - Controller
   - Indirection
-  - Low coupling k
-  - High cohesion k
+  - Low coupling: 🎓 known
+  - High cohesion: 🎓 known
   - Protected variations
   - Pure fabrication
 - SOLID
@@ -62,26 +62,26 @@
   - Open–closed principle (OCP)
   - Liskov substitution principle (LSP)
   - Interface segregation principle (ISP)
-  - Dependency inversion principle (DIP) k
+  - Dependency inversion principle (DIP): 🎓 known
 - Patterns
-  - Singleton k
-  - Factory Method h
-  - Abstract Factory h
-  - Adapter h
-  - Observer k
-  - Strategy h
-  - Facade h
-  - Proxy k
-  - Chain of Responsibility k
-  - Command h
-  - Iterator k
-  - State h
-  - Bridge h
-  - Builder h
-  - Prototype k
-  - Composite h
-  - Decorator k
-  - Flyweight h
+  - Singleton: 🎓 known
+  - Factory Method: 👂 heard
+  - Abstract Factory: 👂 heard
+  - Adapter: 👂 heard
+  - Observer: 🎓 known
+  - Strategy: 👂 heard
+  - Facade: 👂 heard
+  - Proxy: 🎓 known
+  - Chain of Responsibility: 🎓 known
+  - Command: 👂 heard
+  - Iterator: 🎓 known
+  - State: 👂 heard
+  - Bridge: 👂 heard
+  - Builder: 👂 heard
+  - Prototype: 🎓 known
+  - Composite: 👂 heard
+  - Decorator: 🎓 known
+  - Flyweight: 👂 heard
   - Mediator
   - Memento
   - Template Method
