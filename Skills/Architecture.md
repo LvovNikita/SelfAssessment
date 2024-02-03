@@ -1,22 +1,22 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
+  - Modularity h
+  - Components h
   - Directories
   - GRASP
   - SOLID
-  - GoF patterns
-  - CQS
+  - GoF patterns h
+  - CQS h
   - Leaking abstractions
   - Multiparadigm code
-  - Contract programming
-  - Platform-agnostic
-  - Transport-agnostic
-  - Framework-agnostic
+  - Contract programming h
+  - Platform-agnostic h
+  - Transport-agnostic h
+  - Framework-agnostic h
   - Code coverage
-  - Cohesion
-  - Coupling
+  - Cohesion k
+  - Coupling k
   - Cyclomatic complexity
   - Reliability
   - Quality
@@ -24,26 +24,26 @@
   - Flexibility
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer
+  - Isolation between layer h
   - Domain-specific language (DSL)
   - System vs applied code
-  - Multilayer approach
+  - Multilayer approach h
   - Hexagonal architecture
   - Separation of concerns (SoC)
   - Metaprogramming
-  - Inversion of control (IoC)
-  - Dependency injection (DI)
+  - Inversion of control (IoC) h
+  - Dependency injection (DI) h
   - Clean architecture
   - Domain-driven design (DDD)
-  - Pub/sub
-  - Message brocker
+  - Pub/sub k
+  - Message brocker u
   - Agent
-  - Service locator
-  - Message Queue (MQ)
-  - CQRS
+  - Service locator k
+  - Message Queue (MQ) k
+  - CQRS h
   - Event sourcing
-  - E-R data modeling
-  - Entity-relationship diagram
+  - E-R data modeling h
+  - Entity-relationship diagram k
   - IDEF1X
   - UML
   - Work breakdown structure
@@ -66,14 +66,14 @@
   - Solution capabilities
   - System design
   - Process modelling
-  - Data modelling
+  - Data modelling h
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds
+  - Clouds h
   - BPMN
-  - Low-code
-  - No-code
+  - Low-code h
+  - No-code h
   - Metric
   - Metric abuse
   - ACID
@@ -88,7 +88,7 @@
   - Project scope
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices
+  - Microservices u
   - Process choreography
   - Service orchestration
   - Data warehouse
