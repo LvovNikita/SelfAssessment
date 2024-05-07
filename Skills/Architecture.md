@@ -1,64 +1,64 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
+  - Modularity: h
+  - Components: h
   - Directories
-  - GRASP
-  - SOLID
-  - GoF patterns
-  - CQS
+  - GRASP: h
+  - SOLID: h
+  - GoF patterns: k
+  - CQS: h
   - Leaking abstractions
-  - Multiparadigm code
-  - Contract programming
-  - Platform-agnostic
-  - Transport-agnostic
-  - Framework-agnostic
+  - Multiparadigm code: h
+  - Contract programming: h
+  - Platform-agnostic: h
+  - Transport-agnostic: h
+  - Framework-agnostic: h
   - Code coverage
-  - Cohesion
-  - Coupling
+  - Cohesion: k
+  - Coupling: k
   - Cyclomatic complexity
-  - Reliability
-  - Quality
+  - Reliability: h
+  - Quality: h
   - Availability
   - Flexibility
-  - Law of Demeter (LoD)
+  - Law of Demeter (LoD): h
 - Application architecture
-  - Isolation between layer
-  - Domain-specific language (DSL)
+  - Isolation between layer: h
+  - Domain-specific language (DSL): h
   - System vs applied code
-  - Multilayer approach
-  - Hexagonal architecture
-  - Separation of concerns (SoC)
-  - Metaprogramming
-  - Inversion of control (IoC)
-  - Dependency injection (DI)
-  - Clean architecture
-  - Domain-driven design (DDD)
-  - Pub/sub
-  - Message brocker
+  - Multilayer approach: h
+  - Hexagonal architecture: h
+  - Separation of concerns (SoC): h
+  - Metaprogramming: h
+  - Inversion of control (IoC): k
+  - Dependency injection (DI): u
+  - Clean architecture: h
+  - Domain-driven design (DDD): h
+  - Pub/sub: k
+  - Message brocker: u
   - Agent
-  - Service locator
-  - Message Queue (MQ)
-  - CQRS
-  - Event sourcing
-  - E-R data modeling
-  - Entity-relationship diagram
+  - Service locator: k
+  - Message Queue (MQ): u
+  - CQRS: h
+  - Event sourcing: h
+  - E-R data modeling: k
+  - Entity-relationship diagram: k
   - IDEF1X
-  - UML
+  - UML: k
   - Work breakdown structure
   - Budget estimation
-  - Distributed systems
+  - Distributed systems: h
   - High-intensive computing
-  - Load balancing
+  - Load balancing: h
   - Gateways
   - On-premises
-  - IaaS
+  - IaaS: h
   - PaaS
   - SaaS
   - FaaS clouds
   - Serverless
-  - Vendor lock-in
+  - Vendor lock-in: h
   - Bus factor
 - Solution architecture
   - A software requirements specification (SRS)
@@ -66,18 +66,18 @@
   - Solution capabilities
   - System design
   - Process modelling
-  - Data modelling
+  - Data modelling: h
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds
-  - BPMN
-  - Low-code
-  - No-code
+  - Clouds: h
+  - BPMN: h
+  - Low-code: u
+  - No-code: h
   - Metric
   - Metric abuse
-  - ACID
-  - CAP theorem
+  - ACID: h
+  - CAP theorem: h
   - Single source of truth (SSOT)
 - Enterprise architecture
   - Understanding business needs
@@ -88,7 +88,7 @@
   - Project scope
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices
+  - Microservices: u
   - Process choreography
   - Service orchestration
   - Data warehouse

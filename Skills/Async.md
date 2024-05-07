@@ -1,89 +1,89 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - `try..catch`
-  - Non-blocking
-  - Async I/O
-  - Thread pool
-  - Pattern Reactor
+  - Event loop: k
+  - `try..catch`: e
+  - Non-blocking: k
+  - Async I/O: u
+  - Thread pool: k
+  - Pattern Reactor: h
   - CAS operations
-  - epoll
-  - kqueue
+  - epoll: h
+  - kqueue: h
   - Completion ports
   - Event ports
-  - libuv
-  - Race conditions
-  - Dead locks
+  - libuv: k
+  - Race conditions: h
+  - Dead locks: h
   - Live locks
-  - Concurrent programming
-  - Parallel programming
+  - Concurrent programming: h
+  - Parallel programming: h
   - Actor Model
-  - Thread
-  - Process
+  - Thread: k
+  - Process: k
 - Async contracts
-  - Callbacks
-  - Callback-last-error-first
-  - Thenable
-  - Promise
-  - Async/await
-  - Future
+  - Callbacks: u
+  - Callback-last-error-first: u
+  - Thenable: u
+  - Promise: u
+  - Async/await: u
+  - Future: h
   - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
-  - Event
+  - Sync generator: u
+  - Async Generator: k
+  - Async Iterator: k
+  - Event : u
   - Coroutine
   - Goroutine
-  - Signal
-  - Stream
-  - Chain of responsibility
-  - Middleware
-  - Locks
+  - Signal: h
+  - Stream: k
+  - Chain of responsibility: k
+  - Middleware: k
+  - Locks: h
 - Async adapters and utils
-  - callbackify
-  - promisify
+  - callbackify: k
+  - promisify: k
   - asyncify
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter
-  - Observable/Observer
-  - Readable
-  - Writable
-  - Transform
-  - Async Pool
-  - Async Queue
+  - EventEmitter: u
+  - Observable/Observer: u
+  - Readable: k
+  - Writable: k
+  - Transform: k
+  - Async Pool: h
+  - Async Queue: h
   - Async Collector
   - Semaphore
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
-  - `setImmediate`
-  - `nextTick`
-  - AbortController
-  - AbortSignal
-  - Promise unhandled rejection
+  - Timers: u
+  - `setImmediate`: k
+  - `nextTick`: k
+  - AbortController: h
+  - AbortSignal: h
+  - Promise unhandled rejection: h
   - Promise double resolve
-  - Atomics
+  - Atomics: h
   - High resolution clock
-  - Callback hell
+  - Callback hell: u
   - Promise hell
   - ref() and unref()
-  - Error handling in async code
+  - Error handling in async code: u
   - Better stack traces with return await
   - JSON streaming serialization
-  - AsyncLocalStorage
+  - AsyncLocalStorage: h
   - AsyncResource
 - Techniques
-  - Async.js library
-  - RxJS library
-  - Promise.all
-  - Promise.allSettled
-  - Promise.race
-  - Promise.any
+  - Async.js library: h
+  - RxJS library: u
+  - Promise.all: u
+  - Promise.allSettled: k
+  - Promise.race: k
+  - Promise.any: k
   - Web Locks API
-  - IPC
+  - IPC: k
   - Channel API
-  - Revealing constructor
+  - Revealing constructor: h
